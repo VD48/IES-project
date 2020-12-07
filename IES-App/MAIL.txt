@@ -1,0 +1,17 @@
+Hi  {FNAME}, {LNAME} :
+<br/>
+
+Welcome to Kentanky State, Your registration is completed.
+<br/>
+<br/>
+Email Address: {EMAIL}<br/>
+Password : {PWD}<br/>
+<br/>
+
+<a href='http://localhost:9090/unlockAcc?email={EMAIL}'>
+
+Click Here To  Log In Your Account</a> <br/>
+<br/>
+
+Thanks & Regards,<br/>
+Vijendra dhage.<br/>
